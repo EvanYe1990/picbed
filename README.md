@@ -1,2 +1,2 @@
 # images
-Notebook Pic Bed
+Pic Bed
